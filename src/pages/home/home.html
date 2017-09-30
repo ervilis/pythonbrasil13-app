@@ -1,17 +1,55 @@
 <ion-header>
   <ion-navbar>
-    <ion-title>Home</ion-title>
+    <ion-title>
+      <img width="24" height="24" src="/assets/img/logo.png" />
+      Python Brasil 13
+    </ion-title>
   </ion-navbar>
 </ion-header>
 
-<ion-content padding>
-  <h2>Welcome to Ionic!</h2>
-  <p>
-    This starter project comes with simple tabs-based layout for apps
-    that are going to primarily use a Tabbed UI.
-  </p>
-  <p>
-    Take a look at the <code>src/pages/</code> directory to add or change tabs,
-    update any existing page or create new pages.
-  </p>
+<ion-content padding class="cards-bg">
+  <h2 style="text-align: center">#Pessoas > Tecnologia</h2>
+  <ion-card class="adv-map">
+    <div style="position: relative">
+      <img src="assets/img/dayrell.jpg">
+      <ion-fab right top>
+        <a href="https://goo.gl/maps/YkWNzVLpQmG2" target="_blank">
+          <button ion-fab class="fab-map">
+            <ion-icon name='pin'></ion-icon>
+          </button>
+        </a>
+      </ion-fab>
+    </div>
+    <ion-item>
+      <ion-icon color="subtle" large item-start name='pin'></ion-icon>
+      <h2>Dayrell Hotel</h2>
+      <p>R. Espírito Santo, 901 - Centro</p>
+    </ion-item>
+    <ion-item>
+      <ion-icon color="subtle" large item-start name='calendar'></ion-icon>
+      <h2>6, 7 e 8 de Outubro</h2>
+    </ion-item>
+  </ion-card>
+
+  <ion-card class="adv-map">
+    <div style="position: relative">
+      <img src="assets/img/una.png">
+      <ion-fab right top>
+        <a href="https://goo.gl/maps/82tiKzTvMzC2" target="_blank">
+          <button ion-fab color="danger" class="fab-map">
+            <ion-icon name='pin'></ion-icon>
+          </button>
+        </a>
+      </ion-fab>
+    </div>
+    <ion-item>
+      <ion-icon color="subtle" large item-start name='pin'></ion-icon>
+      <h2>Una - Campus Barro Preto</h2>
+      <p>Rua dos Goitacazes, 1159 - Barro Preto</p>
+    </ion-item>
+    <ion-item>
+      <ion-icon color="subtle" large item-start name='calendar'></ion-icon>
+      <h2>9, 10 e 11 de Outubro</h2>
+    </ion-item>
+  </ion-card>
 </ion-content>

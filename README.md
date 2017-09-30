@@ -24,3 +24,11 @@ $ ionic cordova run ios
 
 Substitute ios for android if not on a Mac.
 
+
+
+
+sudo add-apt-repository ppa:webupd8team/java
+sudo apt-get update
+sudo apt-get install oracle-java8-installer
+
+sudo apt-get install gradle

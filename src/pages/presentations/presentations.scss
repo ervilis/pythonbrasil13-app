@@ -1,0 +1,24 @@
+page-schedule {
+
+}
+.schedule-page {
+  ion-note {
+    font-size: 12px;
+    align-self: flex-start;
+    margin-top: 14px;
+  }
+  .list-header-md{
+    margin: 0;
+    border: 0;
+  }
+  .list-md{
+    margin: 0;
+  }
+  .label-md{
+    margin: 6px 4px 6px 0
+  }
+}
+.segment-md .segment-button.segment-activated{
+  border-color: #FFF;
+}
+

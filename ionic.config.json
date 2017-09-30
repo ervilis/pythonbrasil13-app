@@ -2,5 +2,7 @@
   "name": "python-brasil-13",
   "app_id": "e3a720e8",
   "type": "ionic-angular",
-  "integrations": {}
+  "integrations": {
+    "cordova": {}
+  }
 }
