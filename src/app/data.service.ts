@@ -27,14 +27,14 @@ export class DataService {
                         [
                             "09:00", [{
                                 "title": "Abertura",
-                                "room": "Aventurine e Alexandrite",
+                                "room": "Auditório",
                                 "description": "Comunidade Python MG"
                             }]
                         ],
                         [
                             "09:40", [{
                                 "title": "Paola Katherine",
-                                "room": "Aventurine e Alexandrite",
+                                "room": "Auditório",
                                 "description": "Keynote"
                             }]
                         ],
@@ -48,7 +48,7 @@ export class DataService {
                         [
                             "11:00", [{
                                     "title": "Jessica Temporal",
-                                    "room": "Aventurine e Alexandrite",
+                                    "room": "Auditório",
                                     "description": "Serenata de Amor: Inteligência artificial usando dados abertos governamentais"
                                 },
                                 {
@@ -66,7 +66,7 @@ export class DataService {
                         [
                             "11:40", [{
                                     "title": "Elinaldo Monteiro",
-                                    "room": "Aventurine e Alexandrite",
+                                    "room": "Auditório",
                                     "description": "0o0 Bots (automatizando tarefas) um funcionário que não reclama!"
                                 },
                                 {
@@ -91,7 +91,7 @@ export class DataService {
                         [
                             "14:00", [{
                                     "title": "Nicolle Cysneiros",
-                                    "room": "Aventurine e Alexandrite",
+                                    "room": "Auditório",
                                     "description": "GraphQL: nem sempre REST é a melhor alternativa para sua API"
                                 },
                                 {
@@ -109,7 +109,7 @@ export class DataService {
                         [
                             "14:40", [{
                                     "title": "Osvaldo Santana",
-                                    "room": "Aventurine e Alexandrite",
+                                    "room": "Auditório",
                                     "description": "Plataforma distribuída de Microserviços ou, como a Olist funciona"
                                 },
                                 {
@@ -127,7 +127,7 @@ export class DataService {
                         [
                             "15:20", [{
                                     "title": "Artur Rodrigues",
-                                    "room": "Aventurine e Alexandrite",
+                                    "room": "Auditório",
                                     "description": "Python na Infraestrutura MySQL do Facebook"
                                 },
                                 {
@@ -152,21 +152,21 @@ export class DataService {
                         [
                             "16:30", [{
                                 "title": "Lightning Talks",
-                                "room": "Aventurine e Alexandrite",
+                                "room": "Auditório",
                                 "description": ""
                             }]
                         ],
                         [
                             "17:10", [{
                                 "title": "Manuel Kaufmann",
-                                "room": "Aventurine e Alexandrite",
+                                "room": "Auditório",
                                 "description": "Keynote"
                             }]
                         ],
                         [
                             "18:00", [{
                                 "title": "Encerramento",
-                                "room": "Aventurine e Alexandrite",
+                                "room": "Auditório",
                                 "description": ""
                             }]
                         ]
@@ -186,14 +186,14 @@ export class DataService {
                         [
                             "09:00", [{
                                 "title": "Lightning Talks",
-                                "room": "Aventurine e Alexandrite",
+                                "room": "Auditório",
                                 "description": ""
                             }]
                         ],
                         [
                             "09:40", [{
                                 "title": "Rodolpho Eckhardt",
-                                "room": "Aventurine e Alexandrite",
+                                "room": "Auditório",
                                 "description": "Keynote"
                             }]
                         ],
@@ -207,7 +207,7 @@ export class DataService {
                         [
                             "11:00", [{
                                     "title": "Paula Grangeiro",
-                                    "room": "Aventurine e Alexandrite",
+                                    "room": "Auditório",
                                     "description": "Agilizando o ciclo de desenvolvimento de software com a ajuda de testes unitários"
                                 },
                                 {
@@ -225,7 +225,7 @@ export class DataService {
                         [
                             "11:40", [{
                                     "title": "Henrique Bastos",
-                                    "room": "Aventurine e Alexandrite",
+                                    "room": "Auditório",
                                     "description": "The Walking Dev"
                                 },
                                 {
@@ -250,7 +250,7 @@ export class DataService {
                         [
                             "14:00", [{
                                     "title": "Diogo Martins",
-                                    "room": "Aventurine e Alexandrite",
+                                    "room": "Auditório",
                                     "description": ""
                                 },
                                 {
@@ -268,7 +268,7 @@ export class DataService {
                         [
                             "14:40", [{
                                     "title": "Alice Adativa",
-                                    "room": "Aventurine e Alexandrite",
+                                    "room": "Auditório",
                                     "description": "Python, ciência dos dados e redes sociais: uma combinação poderosa"
                                 },
                                 {
@@ -286,7 +286,7 @@ export class DataService {
                         [
                             "15:20", [{
                                     "title": "Paula Santos",
-                                    "room": "Aventurine e Alexandrite",
+                                    "room": "Auditório",
                                     "description": "Análise de imagens e machine learning utilizando Python e openCV"
                                 },
                                 {
@@ -311,21 +311,21 @@ export class DataService {
                         [
                             "16:30", [{
                                 "title": "Lightning Talks",
-                                "room": "Aventurine e Alexandrite",
+                                "room": "Auditório",
                                 "description": ""
                             }]
                         ],
                         [
                             "17:10", [{
                                 "title": "Allison Kaptur",
-                                "room": "Aventurine e Alexandrite",
+                                "room": "Auditório",
                                 "description": "Keynote"
                             }]
                         ],
                         [
                             "18:00", [{
                                 "title": "Encerramento",
-                                "room": "Aventurine e Alexandrite",
+                                "room": "Auditório",
                                 "description": ""
                             }]
                         ]
@@ -345,14 +345,14 @@ export class DataService {
                         [
                             "09:00", [{
                                 "title": "Lightning Talks",
-                                "room": "Aventurine e Alexandrite",
+                                "room": "Auditório",
                                 "description": ""
                             }]
                         ],
                         [
                             "09:40", [{
                                     "title": "Darlene Medeiros",
-                                    "room": "Aventurine e Alexandrite",
+                                    "room": "Auditório",
                                     "description": "Padrões Arquiteturais, muito além do MVC"
                                 },
                                 {
@@ -377,7 +377,7 @@ export class DataService {
                         [
                             "10:45", [{
                                     "title": "Talita Rossari",
-                                    "room": "Aventurine e Alexandrite",
+                                    "room": "Auditório",
                                     "description": "O Flask roubou meu coração"
                                 },
                                 {
@@ -395,7 +395,7 @@ export class DataService {
                         [
                             "11:25", [{
                                     "title": "Navid Sheikhol",
-                                    "room": "Aventurine e Alexandrite",
+                                    "room": "Auditório",
                                     "description": "Facebook Job Engine (FBJE): a framework for developing scalable workflows in Python"
                                 },
                                 {
@@ -420,7 +420,7 @@ export class DataService {
                         [
                             "13:40", [{
                                     "title": "Pyladies Brasil",
-                                    "room": "Aventurine e Alexandrite",
+                                    "room": "Auditório",
                                     "description": "PyLadies e Django Girls promovendo a diversidade na tecnologia"
                                 },
                                 {
@@ -438,7 +438,7 @@ export class DataService {
                         [
                             "14:20", [{
                                     "title": "Rael Max",
-                                    "room": "Aventurine e Alexandrite",
+                                    "room": "Auditório",
                                     "description": "O fim de uma era: os desafios de transformar um monolito de 8 anos em microserviços"
                                 },
                                 {
@@ -456,7 +456,7 @@ export class DataService {
                         [
                             "15:00", [{
                                     "title": "Filipe Ximenes",
-                                    "room": "Aventurine e Alexandrite",
+                                    "room": "Auditório",
                                     "description": "(Quase) Tudo que você precisa saber sobre tarefas assíncronas"
                                 },
                                 {
@@ -481,21 +481,21 @@ export class DataService {
                         [
                             "16:10", [{
                                 "title": "Lightning Talks",
-                                "room": "Aventurine e Alexandrite",
+                                "room": "Auditório",
                                 "description": ""
                             }]
                         ],
                         [
                             "16:50", [{
                                 "title": "Andrew Godwin",
-                                "room": "Aventurine e Alexandrite",
+                                "room": "Auditório",
                                 "description": "Keynote"
                             }]
                         ],
                         [
                             "17:40", [{
                                 "title": "Encerramento",
-                                "room": "Aventurine e Alexandrite",
+                                "room": "Auditório",
                                 "description": ""
                             }]
                         ]
