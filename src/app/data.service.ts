@@ -67,7 +67,7 @@ export class DataService {
                             "11:40", [{
                                     "title": "Elinaldo Monteiro",
                                     "room": "Auditório",
-                                    "description": "0o0 Bots (automatizando tarefas) um funcionário que não reclama!"
+                                    "description": "Bots (automatizando tarefas) um funcionário que não reclama!"
                                 },
                                 {
                                     "title": "Hélio de Meira Lins",
