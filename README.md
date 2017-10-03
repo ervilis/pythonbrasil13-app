@@ -1,34 +1,34 @@
-This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
+# Python Brasil 13 Mobile App
 
-## How to use this template
+## How to contribute
 
-*This template does not work on its own*. The shared files for each starter are found in the [ionic2-app-base repo](https://github.com/ionic-team/ionic2-app-base).
+### Install dependencies:
 
-To use this template, either create a new ionic project using the ionic node.js utility, or copy the files from this repository into the [Starter App Base](https://github.com/ionic-team/ionic2-app-base).
+#### Ionic and Cordova tools
 
-### With the Ionic CLI:
-
-Take the name after `ionic2-starter-`, and that is the name of the template to be used when using the `ionic start` command below:
+This project uses [Ionic Framework](ionicframework.com)
 
 ```bash
 $ sudo npm install -g ionic cordova
-$ ionic start myTabs tabs
 ```
 
-Then, to run it, cd into `myTabs` and run:
+#### Android SDK and Android Studio
+[Android SDK](https://developer.android.com/studio/) is required to build native Android app and to run locally on device simulator.
 
+
+#### Apple XCode
+
+[XCode](https://developer.apple.com/xcode/) is required to build native IOS app and to run locally on device simulator.
+
+
+## Running WEB version of the app
+to run the web version of the app you can execute:
 ```bash
-$ ionic cordova platform add ios
-$ ionic cordova run ios
+ionic serve
 ```
+This command will build the web app and open HTTP server on port 8100.
 
-Substitute ios for android if not on a Mac.
+## Building and running native app
+To build and run native version of the app you can follow the intructions on Ionic docs:
 
-
-
-
-sudo add-apt-repository ppa:webupd8team/java
-sudo apt-get update
-sudo apt-get install oracle-java8-installer
-
-sudo apt-get install gradle
+- [https://ionicframework.com/docs/intro/deploying/](https://ionicframework.com/docs/intro/deploying/)
